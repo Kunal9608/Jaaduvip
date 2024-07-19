@@ -1,8 +1,8 @@
 {
     "serverstatus":"false",
-    "noticemode":"true",
+    "noticemode":"false",
     "dataclearmode":"false",
-    "servermeassage":"Wait Till 8:00p.m. We are working on new Update",
+    "servermeassage":" We are working on new Update.",
     "opentime":"Just wait few more times 🙂",
     "libs":"https://github.com/Kunal9608/Jaaduvip/releases/download/G/libjadu.zip",
     "notice_title":"JOIN TELEGRAM :",
