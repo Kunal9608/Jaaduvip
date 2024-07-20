@@ -1,7 +1,7 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"true",
+    "serverstatus":"false",
+    "noticemode":"false",
+    "dataclearmode":"false",
     "servermeassage":" We are working on new Update.",
     "opentime":"Just wait few more times 🙂",
     "libs":"https://github.com/Kunal9608/Jaaduvip/releases/download/G/libjadu.zip",
